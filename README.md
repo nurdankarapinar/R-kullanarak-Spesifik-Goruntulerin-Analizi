@@ -1,0 +1,1 @@
+# R-kullanarak-Spesifik-Goruntulerin-Analizi
